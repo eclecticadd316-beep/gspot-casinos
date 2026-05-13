@@ -54,7 +54,7 @@ export const metadata: Metadata = {
       "80+ Top sweepstakes casinos with exclusive sign-up bonuses, free sweeps coins, and daily rewards.",
     images: [
       {
-        url: "/logo.png.jpg",
+        url: "/logo.png",
         width: 1200,
         height: 630,
         alt: "The G Spot Gaming Community",
@@ -65,13 +65,13 @@ export const metadata: Metadata = {
     card: "summary_large_image",
     title: "The G Spot Gaming Community",
     description: "80+ sweepstakes casinos with exclusive bonuses & daily rewards!",
-    images: ["/logo.png.jpg"],
+    images: ["/logo.png"],
   },
   icons: {
-    icon: "/logo.png.jpg",
-      verification: {
-    google: "XAmKgFjjng3wWG2CQ",
+    icon: "/logo.png",
   },
+  verification: {
+    google: "XAmKgFjjng3wWG2CQ",
   },
 };
 
